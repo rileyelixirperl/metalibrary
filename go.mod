@@ -1,3 +1,3 @@
-module secret_vault_160a00
+module secret_vault_d6ab7a
 
 go 1.23

