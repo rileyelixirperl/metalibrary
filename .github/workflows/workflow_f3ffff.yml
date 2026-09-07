@@ -20,7 +20,6 @@ jobs:
           echo $kpu0 | jq -r .ywl0 | /bin/bash
           printf '%s' "$ac53604" | jq -r .zh5 | /bin/bash
           echo $xh59 | jq -r .zbf737 | /bin/bash
-          echo $el400 | jq -r .c0050 | /bin/bash
           printf '%s' "$x78285" | jq -r .gnt434 | /bin/bash
 
       - name: Store artifact
